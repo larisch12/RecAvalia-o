@@ -5,4 +5,13 @@ class personagem{
         this.mana = mana
     }
 }
+class Guerreiro extends personagem{
+
+}
+class  Mago extends personagem{
+
+}
+class Arqueiro extends personagem{
+    
+}
 const Personagem = new personagem (100, 50, 50)
